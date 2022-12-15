@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">D Flowers</string>
+    <string name="order_flower">Order Flower</string>
+    <string name="one_flower">One Flower</string>
+    <string name="six_cupcakes">Six Flowers</string>
+    <string name="twelve_cupcakes">Twelve Flowers</string>
+    <string name="special">Spesial Flowers</string>
+    <string name="choose_flower">Pilih Bunga</string>
+    <string name="vanilla">Mawar Merah</string>
+    <string name="chocolate">Mawar Putih</string>
+    <string name="red_velvet">Mawar Biru</string>
+    <string name="salted_caramel">Anggrek</string>
+    <string name="coffee">Dahlia</string>
+    <string name="special_flavor">Bunga Sepesial</string>
+    <string name="cancel">Batal</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date">Pilih Tanggal pengambilan </string>
+    <string name="order_summary">detail Pesanan</string>
+    <string name="send">Kirim</string>
+    <string name="quantity">Jumlah</string>
+    <string name="flavor">Jenis</string>
+    <string name="pickup_date">Tanggal ambil</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">New Order Flower</string>
+    <string name="order_details">Quantity: %1Rps cupcakes \n Flavor: %2Rps \nPickup date: %3Rps \n
+        Total: %4Rps \n\n Thank you!</string>
+</resources>
